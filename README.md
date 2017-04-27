@@ -4,7 +4,7 @@ This is an RRT demonstartion for a finite volume robot with kinodynamic constrai
 ## Rapidly-Exploring Random Tree
 
 #### Author: Chahat Deep Singh
-#### March 27 2017
+#### April 25 2017
 #### University of Maryland College Park
  -----------------------------------
  
