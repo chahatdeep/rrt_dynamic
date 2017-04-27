@@ -1,5 +1,5 @@
 # RRT Smart Algorithm for a _finite_ volume robot:
-This is an RRT demonstartion for a finite volume robot with kinodynamic constraints.
+This is an RRT implementation for a finite volume robot with kinodynamic constraints.
 
 ## Rapidly-Exploring Random Tree
 
